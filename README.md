@@ -8,3 +8,18 @@ This project implements image steganography using OpenCV and Python. It allows u
 - Uses image pixels for message storage.
 - Supports encryption & decryption.
 - Works with .jpg and .png images.
+
+Technologies Used
+- Python
+- OpenCV
+- NumPy
+
+Install required libraries
+
+-pip install opencv-python numpy
+
+Encryption Process
+
+Run the encryption script:
+-python encrypt.py
+-Enter your secret message and a passcode.
