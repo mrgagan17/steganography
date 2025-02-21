@@ -19,7 +19,6 @@ Install required libraries
 - pip install opencv-python numpy
 
 Encryption Process
-
 Run the encryption script:
 - python encrypt.py
 - Enter your secret message and a passcode.
