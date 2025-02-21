@@ -23,3 +23,9 @@ Encryption Process
 Run the encryption script:
 - python encrypt.py
 - Enter your secret message and a passcode.
+
+Decryption Process
+
+Run the decryption script:
+- python decrypt.py
+- Enter the correct passcode to reveal the hidden message.
